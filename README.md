@@ -11,6 +11,7 @@ Copy one of your API keys generated in your GPT3 Account and add it into the ```
 
 ---
 This is a project by:
+
 Falko Saalfeld / Concept & Product / https://instagram.com/falkoslightsupport
 
 Mark Schatz / Product & Development / it.mschatz@gmail.com

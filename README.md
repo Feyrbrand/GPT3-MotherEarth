@@ -8,3 +8,9 @@ You can control which model completes your request by changing the model.
 ## Add your API key
 
 Copy one of your API keys generated in your GPT3 Account and add it into the ```api_key.py``` file. 
+
+---
+This is a project by:
+Falko Saalfeld / Concept & Product / https://instagram.com/falkoslightsupport
+Mark Schatz / Product & Development / it.mschatz@gmail.com
+Hagen Plum / Concept & Design / www.funkify.xyz

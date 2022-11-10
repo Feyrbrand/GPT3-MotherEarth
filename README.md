@@ -15,7 +15,7 @@ Copy one of your API keys generated in your GPT3 Account and add it into the ```
 ---
 This is a project by:
 
-Falko Saalfeld / Concept & Product / https://instagram.com/falkoslightsupport
+Falko Saalfeld / Concept & Product / hello@mother-earth.ai
 
 Mark Schatz / Product & Development / it.mschatz@gmail.com
 

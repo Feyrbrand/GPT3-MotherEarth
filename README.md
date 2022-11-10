@@ -1,4 +1,7 @@
 # GPT3-MotherEarth
+
+[![motherearth](https://funkify.xyz/wp-content/uploads/2022/11/scaled-photoshopped-dalle.jpg)]
+
 A GPT3 Project to communicate with Mother Earth and ask her some questions
 
 Enter an instruction or select a preset, and watch the API respond with a completion that attempts to match the context or pattern you provided.

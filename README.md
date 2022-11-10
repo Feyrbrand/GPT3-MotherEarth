@@ -1,6 +1,6 @@
 # GPT3-MotherEarth
 
-![motherearth](https://funkify.xyz/wp-content/uploads/2022/11/scaled-photoshopped-dalle.jpg){witdth=50%,height:50%}
+![motherearth](https://funkify.xyz/wp-content/uploads/2022/11/scaled-photoshopped-dalle.jpg)
 
 A GPT3 Project to communicate with Mother Earth and ask her some questions
 

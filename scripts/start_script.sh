@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sleep 5
+
 # sound input/output setup
 # output
 pactl set-default-sink alsa_output.usb-Anlya.cn_AB13X_USB_Audio_08613544166500-00.analog-stereo
@@ -11,3 +13,4 @@ pactl set-default-source alsa_input.usb-Anlya.cn_AB13X_USB_Audio_08613544166500-
 cd /home/me/Documents/Development/GPT3-MotherEarth/
 python MEGPT3.py
 
+$SHELL

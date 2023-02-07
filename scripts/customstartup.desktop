@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=customstartup
+Exec=/usr/local/bin/start_script.sh
